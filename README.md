@@ -5,11 +5,28 @@
 
 
 
-[2019-11-22 周五](./2019-11-22.md)
+#### [2019-11-27 周三](./2019-11-27.md)
+
+* [CSS 定位详解](https://mp.weixin.qq.com/s/aQ9s5FCL7QV5RxkOchzfCA) `sticky`
+* [你所不知道的 AI 进展](https://mp.weixin.qq.com/s/9_0bQwl_r5hXyff8-BEk2g) `语音` `图像`
+* [处理视觉冲突|手势导航(二)](https://mp.weixin.qq.com/s/p_9Px7BH6DQGNYNqzPCWtw) `全屏体验`
+
+####[2019-11-26 周二](./2019-11-26.md)
+
+* [什么技能产品经理不会提，但技术人必须懂？](https://mp.weixin.qq.com/s/br5KvFXlgxiADwi9Xv0nbw)
+* [【第 1692 期】在框架设计中寻求平衡](https://mp.weixin.qq.com/s/sfxWbCqLBYaDAgFCd7tZvA)
+
+#### [2019-11-25 周一](./2019-11-25.md)
+
+* [什么是微服务架构](https://mp.weixin.qq.com/s/Dt-c3isYlM-NZk_aLZDedA)
+* [微服务架构实现原理](https://mp.weixin.qq.com/s/xV5-yCxodDKcKJbjLgvj9g)
+* [多次尝试学习，终于搞懂了微服务架构](https://mp.weixin.qq.com/s/Pfs57ee6KpW342cKmJTGrw)
+
+####[2019-11-22 周五](./2019-11-22.md)
 
 * [钉钉企业级IM存储架构创新之道](https://mp.weixin.qq.com/s/nf_0CUdU_7VgG_NjfKla8Q)
 
-[2019-11-21 周四](./2019-11-21.md) `待补总结`
+####[2019-11-21 周四](./2019-11-21.md) `待补总结`
 
 * [Mobx 简明教程](https://mp.weixin.qq.com/s/zoKtUTX3lQ3M4piof4HTeQ)
 
