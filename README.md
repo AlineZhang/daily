@@ -5,6 +5,14 @@
 
 
 
+
+
+###[2019-12-02  周一](./2019-12-02.md)
+
+* [【第 1789 期】实用 Angular 打造微信端架构的ToB企业级应用](https://mp.weixin.qq.com/s/ochbPM5f84u-1BcNRXVOLA)
+
+* [【第1791期】网易云音乐前端动态下发系统](https://mp.weixin.qq.com/s/mtBmeljz-Pe6n4u_LAgwwQ)
+
 #### [2019-11-27 周三](./2019-11-27.md)
 
 * [CSS 定位详解](https://mp.weixin.qq.com/s/aQ9s5FCL7QV5RxkOchzfCA) `sticky`
