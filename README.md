@@ -5,9 +5,17 @@
 
 
 
+####[2019-12-10](./2019-12-10.md) 周二
 
+- [react的 8 种条件渲染方法](https://juejin.im/post/5ab0bff06fb9a028d444696b)
+- [react条件渲染性能优化](https://medium.com/@cowi4030/optimizing-conditional-rendering-in-react-3fee6b197a20)
+- [react的差异算法 official](https://reactjs.org/docs/reconciliation.html)
 
-###[2019-12-02  周一](./2019-12-02.md)
+###[2019-12-09](./2019-12-09) 周一
+
+* [iceworks: 从 GUI 开发工具到集成研发工作台](https://zhuanlan.zhihu.com/p/94102675)
+
+####[2019-12-02  周一](./2019-12-02.md)
 
 * [【第 1789 期】实用 Angular 打造微信端架构的ToB企业级应用](https://mp.weixin.qq.com/s/ochbPM5f84u-1BcNRXVOLA)
 
